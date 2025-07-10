@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Ran Chen (任意)"
+  name             : "Ran Chen"
   avatar           : "images/ry_profile.jpeg"
   bio              : ""
   location         : "Italy"
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           :  # example: "RayeRen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : # example: "rayeren"
+  dblp             : # example: "https://dblp.org/pid/75/6568-6.html"
+  orcid            : "https://orcid.org/0000-0002-3370-8721"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
