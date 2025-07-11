@@ -1,5 +1,9 @@
 # 📝 Publications 
 
+- `arXiv 2025`[Muffled Murmurs: Environmental effects in the LISA stochastic signal from stellar-mass black hole binaries](https://arxiv.org/abs/2507.00694), **Ran Chen**,Rohit S. Chandramouli, Federico Pozzoli, Riccardo Buscicchio, Enrico Barausse.
+
+- ``JCAP 2025`` [Forecast analysis of astrophysical stochastic gravitational wave background beyond general relativity: a case study on brans-dicke gravity](https://arxiv.org/abs/2407.12328), **Ran Chen**, Zhao Li, Yin-Jie Li, Yi-Ying Wang, Rui Niu, Wen Zhao, Yi-Zhong Fan.
+
 - ``PRD 2024`` [Prospects of constraining f(T) gravity with the third-generation gravitational-wave detectors](https://arxiv.org/pdf/2401.01567), **Ran Chen**, Yi-Ying Wang, Lei Zu, Yi-Zhong Fan.
 
 <!--
