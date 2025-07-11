@@ -1,4 +1,6 @@
 # 📎 Homepages
+- Personal Pages: https://ran912.github.io
+- Google Scholar: https://scholar.google.com/citations?user=EpVsXwcAAAAJ
 
 <!--
 # 📎 Homepages
