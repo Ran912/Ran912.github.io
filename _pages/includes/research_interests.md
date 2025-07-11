@@ -1,4 +1,4 @@
-# 🔥 News
+# 🔥 Research Interests
 
 <!--
 # 🔥 News
