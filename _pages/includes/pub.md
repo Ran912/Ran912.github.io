@@ -1,5 +1,7 @@
 # 📝 Publications 
 
+- ``PRD 2024`` [Prospects of constraining f(T) gravity with the third-generation gravitational-wave detectors](https://arxiv.org/pdf/2401.01567), **Ran Chen**, Yi-Ying Wang, Lei Zu, Yi-Zhong Fan.
+
 <!--
 # 📝 Publications 
 ## 🎙 Speech Synthesis
