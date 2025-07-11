@@ -1,4 +1,4 @@
-I am now a PHD stydent.
+I am Ran Chen (陈然), a PHD student in Gravitational-Wave Physics.
 
 
 <!--
