@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ran Chen"
-description              : "Gravatational Waves Explorer."
+description              : "A Gravatational Waves Explorer."
 repository               : "Ran912/Ran912.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 # Site Author
 author:
   name             : "Ran Chen"
-  avatar           : "images/Ran.png"
+  avatar           : "images/Ran.jpg"
   bio              : ""
   location         : "Italy"
   employer         :
