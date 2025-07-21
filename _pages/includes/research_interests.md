@@ -1,8 +1,9 @@
 # 🔥 Research Interests
-- Test GR and beyond GR theory, using gravitational wave and electromagnetic wave observations.
-- Explore Cosmology and Gravity from Astrophysical Stochastic Gravitational waves Background and Cosmological Stochastic Gravitational waves Background.
-- Gravitational Waveforms from compactbinaries in Modified Gravity.
-- Gravitational waves data analysis, using Bayesian Parameter Estimation or MachineLearning.
+- Test GR and beyond GR theory.
+- Environmental effects for gravitational-wave astrophysics.
+- Stochastic Gravitational waves Background.
+- Gravitational waves multi-band data analysis and phenomenology.
+
 
 <!--
 # 🔥 News
