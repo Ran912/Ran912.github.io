@@ -1,4 +1,4 @@
-I am Ran Chen (陈然), a PHD student in Gravitational-Wave Physics.
+Hello! I’m Ran Chen (陈然), a PhD student at Purple Mountain Observatory (PMO), Chinese Academy of Sciences, and the University of Science and Technology of China (USTC). As a relativist, I focus on the physics and astrophysics of gravitational waves, testing General Relativity, and exploring alternative theories of gravity.
 
 
 <!--
