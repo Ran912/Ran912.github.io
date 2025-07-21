@@ -1,5 +1,8 @@
 # 🎖 Honors and Awards
-
+- *2024* China Scholarship Council Scholarship
+- *2022* Doctoral First-class academic scholarship in USTC
+- *2021* Outstanding Graduate of the Class of 2021, Sichuan University
+- *2020* Outstanding Student Award, Sichuan University
 
 <!--
 # 🎖 Honors and Awards
