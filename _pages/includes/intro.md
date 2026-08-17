@@ -1,4 +1,4 @@
-Hello! I’m Ran Chen (陈然), a PhD student at Purple Mountain Observatory (PMO), Chinese Academy of Sciences, and the University of Science and Technology of China (USTC). As a relativist, I focus on the physics and astrophysics of gravitational waves, testing General Relativity, and exploring alternative theories of gravity.
+Hello! I’m Ran Chen (陈然), a postdoctoral researcher at the Scuola Internazionale Superiore di Studi Avanzati (SISSA), Italy. I received my Ph.D. from the University of Science and Technology of China (USTC) and Purple Mountain Observatory (PMO), Chinese Academy of Sciences. As a relativist, I focus on the astrophysics of gravitational waves, stochastic gravitational-wave backgrounds, compact binary systems, and tests of General Relativity and alternative theories of gravity.
 
 
 <!--
