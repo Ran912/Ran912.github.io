@@ -1,6 +1,6 @@
 # 📝 Publications 
 
-- `arXiv 2026` [Implications of the LISA stochastic signal from eccentric stellar mass black hole binaries in vacuum](https://arxiv.org/abs/2605.05537), **Ran Chen**, Rohit S. Chandramouli, Federico Pozzoli, Riccardo Buscicchio, Enrico Barausse.
+- `PRD 2026` [Implications of the LISA stochastic signal from eccentric stellar mass black hole binaries in vacuum](https://arxiv.org/abs/2605.05537), **Ran Chen**, Rohit S. Chandramouli, Federico Pozzoli, Riccardo Buscicchio, Enrico Barausse.
 
 - `PRD 2025` [Muffled Murmurs: Environmental effects in the LISA stochastic signal from stellar-mass black hole binaries](https://arxiv.org/abs/2507.00694), **Ran Chen**, Rohit S. Chandramouli, Federico Pozzoli, Riccardo Buscicchio, Enrico Barausse.
 
