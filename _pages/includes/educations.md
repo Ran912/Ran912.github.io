@@ -1,7 +1,7 @@
 # 📖 Educations
-- *2024.11 - now*, Visitor, SISSA, Trieste.
-- *2021.06 - now*, PHD, Purple Mountain Observatory, Nanjing.
-- *2021.06 - now*, PHD, University of Science and Technology of China, Hefei.
+- *2026.09 - now*, postdoctoral researcher, SISSA, Trieste.
+- *2021.06 - 2026.06*, PHD, Purple Mountain Observatory, Nanjing.
+- *2021.06 - 2026.06*, PHD, University of Science and Technology of China, Hefei.
 - *2017.09 - 2021.06*, Undergraduate, Department of Physics, Sichuan Univeristy, Sichuan.
 
 <!--
